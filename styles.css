@@ -1,7 +1,3 @@
-/*===============
-  global styles
-===============*/
-
 * {
   padding: 0;
   margin: 0;
@@ -98,9 +94,6 @@ button {
   }
 }
 
-/*===================
-  buttons and links
-===================*/
 
 .link {
   color: var(--clr-primary);
